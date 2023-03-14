@@ -22,13 +22,13 @@ Each local data set should include:
  - CSV (e.g. `/mn-ramsey-county/covenants-mn-ramsey-county.csv`)
  - Excel (e.g. `/mn-ramsey-county/covenants-mn-ramsey-county.xslx`)
 
-#### Hennepin County covenants compatibility GeoJSON
-Please note that the official version of the Hennepin County covenants is [published here](https://conservancy.umn.edu/handle/11299/217209). However, this file is provided in order to facilitate quicker mapping of the Hennepin County data alongside data from other jurisdictions. It is a copy of the official shapefile, with fieldnames and date formats changed to match the new Ramsey County data.
+#### Hennepin County covenants compatibility versions
+Please note that the official version of the Hennepin County covenants is [published here](https://conservancy.umn.edu/handle/11299/217209). However, the Hennepin County files here are provided in order to facilitate quicker mapping of the Hennepin County data alongside data from other jurisdictions. It is a copy of the official shapefile, with fieldnames and date formats changed to match our updated data format.
 
 ### Spatial notes
 GeoJSON and shapefile are unprojected WGS-84 (SRID:4326)
 
-(Note: Legacy Hennepin shapefile, available elsewhere, is projected UTM.)
+(Note: Legacy Hennepin shapefile, available in DRUM, is projected UTM.)
 
 ### Data fields in downloadable files
 
