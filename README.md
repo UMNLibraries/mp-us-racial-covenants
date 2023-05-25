@@ -9,11 +9,18 @@ Please note that these files are works in progress. Both the data and data forma
 These files represent the covenants that have been successfully mapped and do not include unmapped covenants which have not yet been matched to modern properties.
 
 ### Available datasets
-| State | Jurisdiction | Notes |
-| ------------- | ------------- | ------------- |
-| Minnesota | Ramsey County | In progress |
-| Minnesota | Hennepin County | No active work, but will likely add covenants in the future. Data ported from [official DRUM repository (see below)](https://conservancy.umn.edu/handle/11299/217209) to match our updated data schema |
-| Wisconsin | Milwaukee County | In progress |
+| State | Jurisdiction | Notes | Suggested Citation |
+| ------------- | ------------- | ------------- | ------------- |
+| Minnesota | Ramsey County | In progress | [Citation](./mn-ramsey-county/README.md) |
+| Minnesota | Hennepin County | No active work, but will likely add covenants in the future. Data ported from [official DRUM repository (see below)](https://conservancy.umn.edu/handle/11299/217209) to match our updated data schema | [Citation](./mn-hennepin-county/README.md) |
+| Wisconsin | Milwaukee County | In progress | [Citation](./wi-milwaukee-county/README.md) |
+
+### Suggested citation
+For work that spans multiple counties, please use the following citation for the overall dataset:
+
+*Corey, Michael; Petersen, Penny; Delegard, Kirsten; Gillette, Rebecca; Mattke, Ryan; Ehrman-Solberg, Kevin; Mills, Marguerite; crowdsourcing community volunteers. (2023). U.S. Racial Covenants Series, Hosted by Mapping Prejudice.*
+
+For work that only involves a single jurisdiction, see individual folders for location-specific citations.
 
 ### File formats
 Each local data set should include:
