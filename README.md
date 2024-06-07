@@ -13,14 +13,16 @@ These files represent the covenants that have been successfully mapped and do no
 | ------------- | ------------- | ------------- | ------------- |
 | Minnesota | Anoka County | In progress | [Citation](./mn-anoka-county/README.md) |
 | Minnesota | Dakota County | Complete | [Citation](./mn-dakota-county/README.md) |
+| Minnesota | Olmsted County | In progress | [Citation](./mn-olmsted-county/README.md) |
 | Minnesota | Ramsey County | In progress | [Citation](./mn-ramsey-county/README.md) |
+| Minnesota | Washington County | In progress | [Citation](./mn-washington-county/README.md) |
 | Minnesota | Hennepin County | No active work, but will likely add covenants in the future. Data ported from [official DRUM repository (see below)](https://conservancy.umn.edu/handle/11299/217209) to match our updated data schema | [Citation](./mn-hennepin-county/README.md) |
 | Wisconsin | Milwaukee County | In progress | [Citation](./wi-milwaukee-county/README.md) |
 
 ### Suggested citation
 For work that spans multiple counties, please use the following citation for the overall dataset:
 
-*Corey, Michael; Petersen, Penny; Delegard, Kirsten; Gillette, Rebecca; Mattke, Ryan; Ehrman-Solberg, Kevin; Mills, Marguerite; crowdsourcing community volunteers. (2023). U.S. Racial Covenants Series, Hosted by Mapping Prejudice.*
+*Corey, Michael; Petersen, Penny; Delegard, Kirsten; Gillette, Rebecca; Mattke, Ryan; Ehrman-Solberg, Kevin; Mills, Marguerite; crowdsourcing community volunteers. (2024). U.S. Racial Covenants Series, Hosted by Mapping Prejudice.*
 
 For work that only involves a single jurisdiction, see individual folders for location-specific citations.
 
