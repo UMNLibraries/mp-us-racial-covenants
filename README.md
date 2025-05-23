@@ -11,18 +11,20 @@ These files represent the covenants that have been successfully mapped and do no
 ### Available datasets
 | State | Jurisdiction | Notes | Suggested Citation |
 | ------------- | ------------- | ------------- | ------------- |
+| DC | District of Columbia | In progress; 23,000 covenanted properties from previous work are not included in this dataset, but will be merged into it in the future. | [Citation](./dc-washington-dc/README.md) |
 | Minnesota | Anoka County | In progress | [Citation](./mn-anoka-county/README.md) |
 | Minnesota | Dakota County | Complete | [Citation](./mn-dakota-county/README.md) |
+| Minnesota | Hennepin County | No active work, but will likely add covenants in the future. Data ported from [official DRUM repository (see below)](https://conservancy.umn.edu/handle/11299/217209) to match our updated data schema | [Citation](./mn-hennepin-county/README.md) |
 | Minnesota | Olmsted County | In progress | [Citation](./mn-olmsted-county/README.md) |
 | Minnesota | Ramsey County | In progress | [Citation](./mn-ramsey-county/README.md) |
+| Minnesota | Sherburne County | In progress | [Citation](./mn-sherburne-county/README.md) |
 | Minnesota | Washington County | In progress | [Citation](./mn-washington-county/README.md) |
-| Minnesota | Hennepin County | No active work, but will likely add covenants in the future. Data ported from [official DRUM repository (see below)](https://conservancy.umn.edu/handle/11299/217209) to match our updated data schema | [Citation](./mn-hennepin-county/README.md) |
 | Wisconsin | Milwaukee County | In progress | [Citation](./wi-milwaukee-county/README.md) |
 
 ### Suggested citation
 For work that spans multiple counties, please use the following citation for the overall dataset:
 
-*Corey, Michael; Petersen, Penny; Delegard, Kirsten; Gillette, Rebecca; Mattke, Ryan; Ehrman-Solberg, Kevin; Mills, Marguerite; crowdsourcing community volunteers. (2024). U.S. Racial Covenants Series, Hosted by Mapping Prejudice.*
+*Corey, Michael; Petersen, Penny; Delegard, Kirsten; Gillette, Rebecca; Mattke, Ryan; Ehrman-Solberg, Kevin; Mills, Marguerite; crowdsourcing community mapmakers. (2025). U.S. Racial Covenants Series, Hosted by Mapping Prejudice.*
 
 For work that only involves a single jurisdiction, see individual folders for location-specific citations.
 
