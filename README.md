@@ -30,7 +30,8 @@ For work that only involves a single jurisdiction, see individual folders for lo
 
 ### File formats
 Each local data set should include:
- - Shapefile (e.g.: `/mn-ramsey-county/covenants-mn-ramsey-county/covenants-mn-ramsey-county.shp`)
+ - Zipped shapefile (e.g.: `/mn-ramsey-county/covenants-mn-ramsey-county.zip`)
+ - Shapefile (e.g.: `/mn-ramsey-county/covenants-mn-ramsey-county/covenants-mn-ramsey-county.shp`, be sure to download other files in same directory, or use Zipped version)
  - GeoJSON (e.g. `/mn-ramsey-county/covenants-mn-ramsey-county.geojson`)
  - CSV (e.g. `/mn-ramsey-county/covenants-mn-ramsey-county.csv`)
  - Excel (e.g. `/mn-ramsey-county/covenants-mn-ramsey-county.xslx`)
