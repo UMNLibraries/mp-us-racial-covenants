@@ -21,7 +21,7 @@ These files represent the covenants that have been successfully mapped and do no
 | Minnesota | Ramsey County | In progress | [Citation](./mn-ramsey-county/README.md) |
 | Minnesota | Sherburne County | Complete | [Citation](./mn-sherburne-county/README.md) |
 | Minnesota | Washington County | In progress | [Citation](./mn-washington-county/README.md) |
-| Wisconsin | Milwaukee County | In progress | [Citation](./wi-milwaukee-county/README.md) |
+| Wisconsin | Milwaukee County | Complete | [Citation](./wi-milwaukee-county/README.md) |
 
 ### Suggested citation
 For work that spans multiple counties, please use the following citation for the overall dataset:
