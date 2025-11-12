@@ -13,7 +13,6 @@ These files represent the covenants that have been successfully mapped and do no
 | ------------- | ------------- | ------------- | ------------- |
 | California | Contra Costa County | In progress | [Citation](./ca-contra-costa-county/README.md) |
 | DC | District of Columbia | In progress; 23,000 covenanted properties from previous work are not included in this dataset, but will be merged into it in the future. | [Citation](./dc-washington-dc/README.md) |
-| Michigan | Washtenaw County | In progress | [Citation](./mi-washtenaw-county/README.md) |
 | Minnesota | Anoka County | Complete | [Citation](./mn-anoka-county/README.md) |
 | Minnesota | Dakota County | Complete | [Citation](./mn-dakota-county/README.md) |
 | Minnesota | Hennepin County | No active work, but will likely add covenants in the future. Data ported from [official DRUM repository (see below)](https://conservancy.umn.edu/handle/11299/217209) to match our updated data schema | [Citation](./mn-hennepin-county/README.md) |
