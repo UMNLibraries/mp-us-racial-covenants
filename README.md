@@ -27,7 +27,7 @@ These files represent the covenants that have been successfully mapped and do no
 ### Suggested citation
 For work that spans multiple counties, please use the following citation for the overall dataset:
 
-*Corey, Michael; Petersen, Penny; Delegard, Kirsten; Gillette, Rebecca; Mattke, Ryan; Ehrman-Solberg, Kevin; Mills, Marguerite; crowdsourcing community mapmakers. (2025). U.S. Racial Covenants Series, Hosted by Mapping Prejudice.*
+*Corey, Michael; Petersen, Penny; Delegard, Kirsten; Gillette, Rebecca; Mattke, Ryan; Ehrman-Solberg, Kevin; Mills, Marguerite; crowdsourcing community mapmakers. (2026). U.S. Racial Covenants Series, Hosted by Mapping Prejudice.*
 
 For work that only involves a single jurisdiction, see individual folders for location-specific citations.
 
