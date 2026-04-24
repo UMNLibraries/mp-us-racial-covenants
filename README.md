@@ -57,8 +57,7 @@ cnty_name  |  String  |  County name  |
 cnty_fips  |  String  |  County 5-digit FIPS code  |
 doc_num  |  String  |  Government document number of historical property deed  |
 deed_year  |  Integer  |  Year of historical deed/covenant. Since covenants are often repeated in subsequent deeds when a property is sold, we have attempted to identify the earliest deed with the racial covenant.  |
-deed_date  |  Date, YYYY-MM-DD  |  Date deed recorded. Primary date for Ramsey County covenants. Present in many Hennepin County covenant entries, but not all  |
-exec_date  |  Date, YYYY-MM-DD  |  Date deed was executed. Primary date for Hennepin County covenants, missing in Ramsey County.  |
+deed_date  |  Date, YYYY-MM-DD  |  Generally, this is the date the deed or other document was executed (signed), rather than the date the document was recorded (these dates can sometimes vary by months or years.) For some Ramsey County covenants, only the recorded date was transcribed, so that date has been used instead.|
 cov_text  |  String  |  Text of racial covenant  |
 seller  |  String  |  Name of historical seller, also known as "grantor." Not transcribed in Ramsey County.  |
 buyer  |  String  |  Name of historical buyer, also known as "grantee." Not transcribed in Ramsey County.  |
