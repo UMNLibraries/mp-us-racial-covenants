@@ -22,6 +22,7 @@ These files represent the covenants that have been successfully mapped and do no
 | Minnesota | Sherburne County | Complete | [Citation](./mn-sherburne-county/README.md) |
 | Minnesota | Stearns County | In progress | [Citation](./mn-stearns-county/README.md) |
 | Minnesota | Washington County | Complete | [Citation](./mn-washington-county/README.md) |
+| North Carolina | Forsyth County | In progress | [Citation](./nc-forsyth-county/README.md) |
 | Wisconsin | Milwaukee County | Complete | [Citation](./wi-milwaukee-county/README.md) |
 
 ### Suggested citation
